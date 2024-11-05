@@ -156,14 +156,36 @@
 #     print("you can cast your first vote")
 
 
-a=int(input('Enter your number:'))
-b=a%10
-if b==3:
-    print(a+3)
-elif b==5:
-    print(a+5)
-elif b==8:
-    print(a+8)   
+# a=int(input('Enter your number:'))
+# b=a%10
+# if b==3:
+#     print(a+3)
+# elif b==5:
+#     print(a+5)
+# elif b==8:
+#     print(a+8)   
      
-else:
-    print(a+10)
+# else:
+#     print(a+10)
+
+
+
+                            #string methods()
+a="this is my first program 12345678"
+
+# b= a.count("s")
+# print(b)
+
+# c=a.isalnum()
+# print(c)
+
+# d= a.isdigit()
+# print(d)
+
+# e= a.isdigit()
+# print(e)
+
+f= a.isalpha() 
+print(f)
+
+
