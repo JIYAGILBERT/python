@@ -63,9 +63,73 @@
 # print(b)
 
 # 11. Join Words into a String Given a list of words, write a program that joins them into a single string, with a space between each word.
-a=("jiya, sandra,aishu")
-b= ''.join(a)
-print(a)
+# a=["jiya", "sandra","aishu"]
+# b= " ".join(a)
+# print(b)
+
+# 12. Check if a String Contains a Substring Write a Python program that asks the user for a substring and checks if it is present anywhere in the given string.
+
+# a=input("enter a string:")
+# b=a.split()
+# print(b)
+# c=input("enter a string:")
+# for i in b:
+#     if i==c:
+#         print('Word exist')
+#         break
+# else: 
+#     print('word does not exist')
+
+
+
+
+# 13. Check if String is Alphanumeric Write a program to check if the given string contains only alphanumeric characters (letters and numbers).
+
+# a=input(enter a alpha-numeric string:)
+# b= isalnum()
+
+
+# 14. Remove All Digits from a String Write a program that removes all digits from a string provided by the user.
+
+# a=input("ENTER A STRING:")
+# b=""
+# for i in a:
+#     if i.isdigit():
+#         pass
+#     else:
+#         b=b+i
+# print(b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

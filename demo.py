@@ -185,7 +185,82 @@ a="this is my first program 12345678"
 # e= a.isdigit()
 # print(e)
 
-f= a.isalpha() 
-print(f)
+# f= a.isalpha() 
+# print(f)
 
 
+
+
+                               #for loop
+# for i in range(5):
+#     print(i)
+    
+    
+    
+# for i in range(1,10):
+#     print(i)
+    
+    
+# star pattern
+
+# n = int(input("Enter the number of rows"))       
+# for i in range(0, n):    
+#         for j in range(0, i + 1):    
+#             print("* ", end="")       
+#         print()    
+    
+# for i in range(1,6):
+#     print("*"*i)    
+    
+# for i in range(5,0,-1):
+#     print("*"*i)
+    
+# a=0
+# for i in range(4):
+#     for j in range(  i+1):
+#         a=a+1
+#         print(a," ",end="")
+
+#     print()
+                 
+                 
+                 
+                 #piramide
+# a=6
+# for i in range(5):
+#     a=a-1
+#     print(end=" "*a)
+#     for j in range(i+1):
+#         print(j+1,end=" ")
+#     print()
+    
+    
+                                      #reverse of a number
+# a= int(input("Enter the integer number: "))    
+# b= 0   
+# while (a > 0):    
+#         c = a % 10  
+#         b = (b * 10) + c  
+#         a= a // 10    
+    
+# print("The reverse number is : ",b)  
+    
+    
+                                         #palindrome
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
