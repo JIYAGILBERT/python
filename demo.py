@@ -54,7 +54,7 @@
 # c=a//b
 # print(c)
 
-#swapping
+                  #swapping
 # a=5
 # b=10
 # t=a
