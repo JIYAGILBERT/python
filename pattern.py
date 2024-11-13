@@ -34,16 +34,29 @@
 #     a+=1
          
         ############## pattern no.:4 ##################
+# a=65
+# b=1
+# for i in range(3):
+#     for j in range(3):
+#         print(chr(a+j),end=" ")
+#     print()
+#     for j in range(3):
+#         print(b+j,end=" ")
+#     print()
+
+
+
+       ############## pattern no.:4 ##################
+
 a=65
-b=1
+b=67
 for i in range(3):
     for j in range(3):
         print(chr(a+j),end=" ")
     print()
     for j in range(3):
-        print(b+j,end=" ")
-    print()
-        
+        print(chr(b-j),end=" ")
+    print()        
             
         
          
