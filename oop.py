@@ -35,22 +35,22 @@ class Bank:
         
     
    
-obj1=Bank(0)
-d="y"
-while(d=="y"):      
-    print("1. deposit 2.withdrawl 3.check balance 4.exit")
-    c=int(input("Which one do you want to run:"))
-    if c==1:
-        obj1.deposit()
-    elif c==2:
-        obj1.withdrawl()
-    elif c==3:
-        obj1.check_balance()
-    elif c==4:
-        print("exit.....")
-    else :
-        print("Thank you!")
-    d=(input("Do ypu want to continue? (n/y):"))  
+# obj1=Bank(0)
+# d="y"
+# while(d=="y"):      
+#     print("1. deposit 2.withdrawl 3.check balance 4.exit")
+#     c=int(input("Which one do you want to run:"))
+#     if c==1:
+#         obj1.deposit()
+#     elif c==2:
+#         obj1.withdrawl()
+#     elif c==3:
+#         obj1.check_balance()
+#     elif c==4:
+#         print("exit.....")
+#     else :
+#         print("Thank you!")
+    # d=(input("Do ypu want to continue? (n/y):"))  
 
 
 
