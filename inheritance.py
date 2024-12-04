@@ -66,40 +66,40 @@
 # obj1.child1()
 # obj2.child2()
 
-class A1:
-    def a1():
-        print("hey A1")
+# class A1:
+#     def a1():
+#         print("hey A1")
     
-class B1(A1):
-    def b1():
-        print("hey B1")
+# class B1(A1):
+#     def b1():
+#         print("hey B1")
         
-class C1(B1):
-    def c1():
-        print("hey c1")
+# class C1(B1):
+#     def c1():
+#         print("hey c1")
         
-class D1(B1):
-    def d1():
-        print("hey d1")
+# class D1(B1):
+#     def d1():
+#         print("hey d1")
         
-class E1(D1):
-    def e1():
-        print("hey e1")
+# class E1(D1):
+#     def e1():
+#         print("hey e1")
     
-class F1(C1,D1):
-    def f1():
-        print("Hey f1")
+# class F1(C1,D1):
+#     def f1():
+#         print("Hey f1")
 
-obj1=F1
-obj2=E1
+# obj1=F1
+# obj2=E1
 
-obj1.a1()
-obj1.b1()
-obj1.c1()
-obj1.d1()
-obj1.f1()
+# obj1.a1()
+# obj1.b1()
+# obj1.c1()
+# obj1.d1()
+# obj1.f1()
 
-obj2.e1()        
+# obj2.e1()        
 
 
 
